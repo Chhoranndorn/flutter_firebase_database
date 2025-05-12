@@ -1,16 +1,30 @@
-# fluter_firebase_homework
+# 📱 Flutter Firebase Homework
 
-A new Flutter project.
+A modern Flutter application integrated with Firebase — designed for hands-on learning and mobile app development practice.
 
-## Getting Started
+## 🚀 Getting Started
 
-This project is a starting point for a Flutter application.
+This project is built with **Flutter 3.27.3** and integrates Firebase for real-time backend features. It's a great starting point for learning full-stack mobile development.
 
-A few resources to get you started if this is your first Flutter project:
+### 🔧 Requirements
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK: `3.27.3`
+- Dart SDK: bundled with Flutter
+- Android Studio / VS Code
+- Firebase Project (for integration)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 📦 Features
+
+- ✅ Firebase Authentication
+- ✅ Firestore Database (Cloud Firestore)
+- ✅ Realtime Database (optional)
+- ✅ State Management (e.g. Provider, Riverpod, or Bloc)
+- ✅ Clean Folder Structure
+- ✅ Mobile-first UI/UX
+
+### 🛠️ Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Chhoranndorn/flutter_firebase_database.git
+   cd flutter_firebase_database
