@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "469263852220",
+    "project_id": "full-stack-app-dev-26-6bf3c",
+    "storage_bucket": "full-stack-app-dev-26-6bf3c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469263852220:android:3f914c32f225187319a6b9",
+        "android_client_info": {
+          "package_name": "com.example.fluter_firebase_homework"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN1OvL-jn6zqzbtmTPmNeA3vv0xmotZ4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
